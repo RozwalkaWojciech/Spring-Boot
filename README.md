@@ -15,4 +15,4 @@ Spring Boot knowledge
 
 ## rest
 
-## patterns
+## design patterns
