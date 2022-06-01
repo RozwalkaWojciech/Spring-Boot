@@ -16,3 +16,5 @@ Spring Boot knowledge
 ## rest
 
 ## design patterns
+
+## feign
