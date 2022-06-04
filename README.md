@@ -5,9 +5,9 @@ Spring Boot knowledge
 
 ## asynchronous
 
-## rabbitMQ
-
 ## cache
+
+## rabbitMQ
 
 ## profile
 
