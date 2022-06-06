@@ -9,6 +9,8 @@ Spring Boot knowledge
 
 ## database
 
+## design patterns
+
 ## rabbitMQ
 
 ## profile
@@ -16,7 +18,5 @@ Spring Boot knowledge
 ## rest
 
 ## soap
-
-## design patterns
 
 ## feign
