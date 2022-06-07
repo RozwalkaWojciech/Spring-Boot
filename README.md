@@ -11,6 +11,8 @@ Spring Boot knowledge
 
 ## design patterns
 
+## feign
+
 ## rabbitMQ
 
 ## profile
@@ -18,5 +20,3 @@ Spring Boot knowledge
 ## rest
 
 ## soap
-
-## feign
