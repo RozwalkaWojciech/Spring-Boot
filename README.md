@@ -11,7 +11,7 @@ Spring Boot knowledge
 
 ## design patterns
 
-## feign
+## OpenFeign
 
 ## profile
 
