@@ -13,10 +13,10 @@ Spring Boot knowledge
 
 ## OpenFeign
 
-## profile
+## Profile
 
-## rabbitMQ
+## RabbitMQ
 
-## rest
+## Rest
 
-## soap
+## Soap
