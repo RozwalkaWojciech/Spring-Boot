@@ -9,7 +9,7 @@ Spring Boot knowledge
 
 ## Database
 
-## design patterns
+## Design patterns
 
 ## OpenFeign
 
