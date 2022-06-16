@@ -10,7 +10,8 @@
 ## Database
 
 ## Design patterns
- - builder
+ - Builder
+ - Singleton
 
 ## OpenFeign
 
