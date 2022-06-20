@@ -12,6 +12,7 @@
 ## Design patterns
  - Builder
  - Singleton
+ - Factory method
 
 ## OpenFeign
 
