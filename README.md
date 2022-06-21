@@ -13,6 +13,7 @@
  - Builder
  - Singleton
  - Factory method
+ - Decorator
 
 ## OpenFeign
 
