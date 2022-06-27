@@ -10,6 +10,9 @@
 ## Database
 
 ## Design patterns
+
+# Creational patterns
+
  - Builder
  - Singleton
  - Factory method
