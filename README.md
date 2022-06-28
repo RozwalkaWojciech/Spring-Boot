@@ -16,6 +16,9 @@
  - Builder
  - Singleton
  - Factory method
+
+### Structural patterns
+
  - Decorator
 
 ## OpenFeign
