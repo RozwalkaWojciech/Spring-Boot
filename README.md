@@ -20,6 +20,7 @@
 ### Structural patterns
 
  - Decorator
+ - Adapter
 
 ## OpenFeign
 
