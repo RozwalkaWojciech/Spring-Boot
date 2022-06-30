@@ -21,6 +21,7 @@
 
  - Decorator
  - Adapter
+ - Flyweight
 
 ## OpenFeign
 
