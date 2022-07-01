@@ -22,6 +22,7 @@
  - Decorator
  - Adapter
  - Flyweight
+ - Bridge
 
 ## OpenFeign
 
