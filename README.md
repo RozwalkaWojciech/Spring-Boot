@@ -23,6 +23,7 @@
  - Adapter
  - Flyweight
  - Bridge
+ - Facade
 
 ## OpenFeign
 
