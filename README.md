@@ -25,6 +25,8 @@
  - Bridge
  - Facade
 
+### Behavioral patterns
+
 ## OpenFeign
 
 ## Profile
