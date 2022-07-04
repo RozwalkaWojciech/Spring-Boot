@@ -27,6 +27,8 @@
 
 ### Behavioral patterns
 
+- Strategy
+
 ## OpenFeign
 
 ## Profile
