@@ -28,6 +28,7 @@
 ### Behavioral patterns
 
 - Strategy
+- Observer
 
 ## OpenFeign
 
