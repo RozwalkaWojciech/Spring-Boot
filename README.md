@@ -29,6 +29,7 @@
 
 - Strategy
 - Observer
+- Iterator
 
 ## OpenFeign
 
