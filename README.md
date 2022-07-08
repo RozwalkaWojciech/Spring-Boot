@@ -24,6 +24,7 @@
  - Flyweight
  - Bridge
  - Facade
+ - Proxy
 
 ### Behavioral patterns
 
