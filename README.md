@@ -1,7 +1,7 @@
 # Spring-Boot
  - Spring Boot knowledge
 
-## Aspect oriented programming
+## Aspect oriented programming (AOP)
 
 ## Asynchronous
 
@@ -33,6 +33,8 @@
 - Iterator
 
 ## OpenFeign
+
+## JSON Web Token (JWT)
 
 ## Profile
 
