@@ -34,6 +34,8 @@
 
 ## Flyway
 
+## Git
+
 ## JSON Web Token (JWT)
 
 ## Liquibase 
