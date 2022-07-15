@@ -9,6 +9,8 @@
 
 ## Database
 
+ - H2
+
 ## Design patterns
 
 ### Creational patterns
