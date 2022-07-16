@@ -9,6 +9,7 @@
 
 ## Database
 
+ - PostrgreSQL
  - H2
 
 ## Design patterns
