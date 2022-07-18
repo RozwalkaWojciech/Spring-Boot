@@ -12,6 +12,7 @@
  - MySQL
  - PostrgreSQL
  - H2
+ - Microsoft SQL Server (MS SQL)
 
 ## Design patterns
 
