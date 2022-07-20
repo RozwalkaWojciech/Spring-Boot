@@ -14,6 +14,7 @@
  - H2
  - Microsoft SQL Server (MS SQL)
  - Oracle Database
+ - Neo4j
 
 ## Design patterns
 
