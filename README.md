@@ -23,6 +23,7 @@
  - Builder
  - Singleton
  - Factory method
+ - Abstract factory
 
 ### Structural patterns
 
