@@ -44,6 +44,8 @@
 
 ## Git
 
+## JPA
+
 ## JSON Web Token (JWT)
 
 ## Liquibase 
