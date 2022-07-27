@@ -44,7 +44,7 @@
 
 ## Git
 
-## JPA
+## Spring Data JPA
 
 ## JSON Web Token (JWT)
 
