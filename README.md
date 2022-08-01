@@ -49,6 +49,8 @@
 
 ## JSON Web Token (JWT)
 
+## Kafka
+
 ## Liquibase 
 
 ## OpenFeign
