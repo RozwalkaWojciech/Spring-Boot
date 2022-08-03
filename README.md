@@ -45,6 +45,8 @@
 
 ## Git
 
+## Logback
+
 ## Spring Data JPA
 
 ## JSON Web Token (JWT)
