@@ -47,8 +47,6 @@
 
 ## Logback
 
-## Spring Data JPA
-
 ## JSON Web Token (JWT)
 
 ## Kafka
@@ -68,3 +66,5 @@
 ## Security
 
 ## Soap
+
+## Spring Data JPA
