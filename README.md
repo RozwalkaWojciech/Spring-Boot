@@ -45,9 +45,9 @@
 
 ## Git
 
-## Logback
-
 ## JSON Web Token (JWT)
+
+## Logback
 
 ## Kafka
 
