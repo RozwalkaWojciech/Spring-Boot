@@ -55,6 +55,8 @@
 
 ## OAuth
 
+## OpenAPI
+
 ## OpenFeign
 
 ## Profile
