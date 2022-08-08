@@ -47,11 +47,11 @@
 
 ## JSON Web Token (JWT)
 
-## Logback
-
 ## Kafka
 
 ## Liquibase 
+
+## Logback
 
 ## OAuth
 
