@@ -74,3 +74,5 @@
 ## Spring Data JPA
 
 ## Thymeleaf
+
+## FreeMarker
