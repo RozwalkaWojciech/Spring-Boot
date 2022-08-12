@@ -45,6 +45,8 @@
 
 ## Flyway
 
+## FreeMarker
+
 ## Git
 
 ## JSON Web Token (JWT)
@@ -74,5 +76,3 @@
 ## Spring Data JPA
 
 ## Thymeleaf
-
-## FreeMarker
