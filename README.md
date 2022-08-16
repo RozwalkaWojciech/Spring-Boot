@@ -69,6 +69,8 @@
 
 ## Rest
 
+## Schedule
+
 ## Security
 
 ## Soap
@@ -76,5 +78,3 @@
 ## Spring Data JPA
 
 ## Thymeleaf
-
-## Schedule
