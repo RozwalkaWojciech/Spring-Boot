@@ -78,3 +78,5 @@
 ## Spring Data JPA
 
 ## Thymeleaf
+
+## Elasticsearch
