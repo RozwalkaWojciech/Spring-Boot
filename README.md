@@ -45,7 +45,6 @@
 
 ## Elasticsearch
 
-
 ## Flyway
 
 ## FreeMarker
