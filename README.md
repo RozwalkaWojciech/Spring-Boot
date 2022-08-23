@@ -80,3 +80,5 @@
 ## Spring Data JPA
 
 ## Thymeleaf
+
+## YAML
