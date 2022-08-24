@@ -82,3 +82,5 @@
 ## Thymeleaf
 
 ## YAML
+
+## Properties
