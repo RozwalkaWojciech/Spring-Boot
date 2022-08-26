@@ -67,6 +67,8 @@
 
 ## Profile
 
+## Properties
+
 ## RabbitMQ
 
 ## Rest
@@ -82,5 +84,3 @@
 ## Thymeleaf
 
 ## YAML
-
-## Properties
