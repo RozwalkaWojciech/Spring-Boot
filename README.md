@@ -27,7 +27,6 @@
  - Singleton
  - Factory method
  - Abstract factory
- 
  - Prototytpe
 
 ### Structural patterns
