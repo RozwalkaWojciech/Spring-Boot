@@ -44,6 +44,8 @@
 - Observer
 - Iterator
 
+- Command
+
 ## Elasticsearch
 
 ## Flyway
