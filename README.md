@@ -43,7 +43,6 @@
 - Strategy
 - Observer
 - Iterator
-
 - Command
 
 ## Elasticsearch
