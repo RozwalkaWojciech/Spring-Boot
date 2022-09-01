@@ -40,10 +40,10 @@
 
 ### Behavioral patterns
 
+- Command
 - Strategy
 - Observer
 - Iterator
-- Command
 
 ## Elasticsearch
 
