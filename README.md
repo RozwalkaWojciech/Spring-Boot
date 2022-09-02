@@ -41,9 +41,9 @@
 ### Behavioral patterns
 
 - Command
+- Iterator
 - Strategy
 - Observer
-- Iterator
 
 ## Elasticsearch
 
