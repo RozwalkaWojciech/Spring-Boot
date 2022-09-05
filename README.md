@@ -42,8 +42,8 @@
 
 - Command
 - Iterator
-- Strategy
 - Observer
+- Strategy
 
 ## Elasticsearch
 
