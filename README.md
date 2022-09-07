@@ -12,9 +12,9 @@
 ## Database
 
  - H2
+ - Microsoft SQL Server (MS SQL)
  - MySQL
  - PostrgreSQL
- - Microsoft SQL Server (MS SQL)
  - Oracle Database
  - Neo4j
  - MongoDB
