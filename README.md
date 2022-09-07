@@ -31,8 +31,8 @@
 
 ### Structural patterns
 
- - Decorator
  - Adapter
+ - Decorator
  - Flyweight
  - Bridge
  - Facade
