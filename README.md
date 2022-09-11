@@ -31,10 +31,10 @@
 
 ### Structural patterns
 
- - Adapter
+ - Adapter 
+ - Bridge
  - Decorator
  - Flyweight
- - Bridge
  - Facade
  - Proxy
 
