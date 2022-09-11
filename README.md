@@ -15,9 +15,9 @@
  - Microsoft SQL Server (MS SQL)
  - MongoDB
  - MySQL
+ - Neo4j
  - PostrgreSQL
  - Oracle Database
- - Neo4j
 
 ## Design patterns
 
