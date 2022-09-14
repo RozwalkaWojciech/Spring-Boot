@@ -16,8 +16,9 @@
  - MongoDB
  - MySQL
  - Neo4j
- - PostrgreSQL
  - Oracle Database
+ - PostrgreSQL
+
 
 ## Design patterns
 
