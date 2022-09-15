@@ -24,10 +24,10 @@
 
 ### Creational patterns
 
+ - Abstract factory
  - Builder
  - Singleton
  - Factory method
- - Abstract factory
  - Prototytpe
 
 ### Structural patterns
