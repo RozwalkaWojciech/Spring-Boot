@@ -26,8 +26,8 @@
 
  - Abstract factory
  - Builder
- - Singleton
  - Factory method
+ - Singleton
  - Prototytpe
 
 ### Structural patterns
