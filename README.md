@@ -35,8 +35,8 @@
  - Adapter 
  - Bridge
  - Decorator
- - Flyweight
  - Facade
+ - Flyweight
  - Proxy
 
 ### Behavioral patterns
