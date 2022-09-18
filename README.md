@@ -19,7 +19,6 @@
  - Oracle Database
  - PostrgreSQL
 
-
 ## Design patterns
 
 ### Creational patterns
