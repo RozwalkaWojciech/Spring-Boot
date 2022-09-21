@@ -38,7 +38,6 @@
  - Flyweight
  - Proxy
 
-
 ### Behavioral patterns
 
 - Command
