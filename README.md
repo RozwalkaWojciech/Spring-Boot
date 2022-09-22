@@ -44,6 +44,7 @@
 - Iterator
 - Observer
 - Strategy
+- State
 
 ## Elasticsearch
 
