@@ -45,7 +45,6 @@
 - Observer
 - State
 - Strategy
-- 
 
 ## Elasticsearch
 
