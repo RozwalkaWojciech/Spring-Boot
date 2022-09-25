@@ -37,6 +37,7 @@
  - Facade
  - Flyweight
  - Proxy
+ - Composite
 
 ### Behavioral patterns
 
