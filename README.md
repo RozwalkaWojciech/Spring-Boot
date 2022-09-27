@@ -46,6 +46,7 @@
 - Observer
 - State
 - Strategy
+- Mediator
 
 ## Elasticsearch
 
