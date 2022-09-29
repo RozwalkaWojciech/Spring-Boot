@@ -43,10 +43,10 @@
 
 - Command
 - Iterator
+- Mediator
 - Observer
 - State
 - Strategy
-- Mediator
 
 ## Elasticsearch
 
