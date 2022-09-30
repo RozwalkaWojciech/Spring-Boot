@@ -47,6 +47,7 @@
 - Observer
 - State
 - Strategy
+- Template Method
 
 ## Elasticsearch
 
