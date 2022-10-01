@@ -41,6 +41,7 @@
 
 ### Behavioral patterns
 
+- Visitor
 - Command
 - Iterator
 - Mediator
