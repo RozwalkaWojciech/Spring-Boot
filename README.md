@@ -41,7 +41,6 @@
 
 ### Behavioral patterns
 
-- Visitor
 - Command
 - Iterator
 - Mediator
@@ -49,6 +48,7 @@
 - State
 - Strategy
 - Template Method
+- Visitor
 
 ## Elasticsearch
 
