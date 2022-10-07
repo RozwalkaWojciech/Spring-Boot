@@ -49,6 +49,7 @@
 - Strategy
 - Template Method
 - Visitor
+- Chain of Responsibility
 
 ## Elasticsearch
 
