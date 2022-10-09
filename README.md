@@ -41,6 +41,7 @@
 
 ### Behavioral patterns
 
+- Chain of Responsibility
 - Command
 - Iterator
 - Mediator
@@ -49,7 +50,6 @@
 - Strategy
 - Template Method
 - Visitor
-- Chain of Responsibility
 
 ## Elasticsearch
 
