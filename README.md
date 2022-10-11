@@ -50,6 +50,8 @@
 - Strategy
 - Template Method
 - Visitor
+- Memento
+- 
 
 ## Elasticsearch
 
