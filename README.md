@@ -51,7 +51,6 @@
 - Template Method
 - Visitor
 - Memento
-- 
 
 ## Elasticsearch
 
