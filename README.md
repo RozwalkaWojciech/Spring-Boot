@@ -45,7 +45,7 @@
 - Command
 - Iterator
 - Mediator
-- - Memento
+- Memento
 - Observer
 - State
 - Strategy
